@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Puzzles To Puzzle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="l1">We have 10 identical bottles of identical pills (each bottle contain hundred of pills). Out of 10 bottles 9 have 1 gram of pills but 1 bottle has pills of weight of 1.1 gram. Given a measurement scale, how would you find the heavy bottle? You can use the scale only once.</string>
+    <string name="l1a1">First, arrange the bottles on shelf and now take, 1 pill from the first bottle, 2 pills from the second bottle, 3 pills from the third bottle, and so on. Ideally you would have (10)*(11)/2=55 pills weighing 55 grams, when you put the entire pile of pills on the weighing scale.The deviation from 55 g would tell you which bottle contains the heavy pills.
+
+If it is .1 gram more, it is 1st bottle which has heavy pill, if it is .2 more, gram 2nd bottle has heavy pills, if it is .3 more, gram 3rd bottle has heavy pills.</string>
+</resources>

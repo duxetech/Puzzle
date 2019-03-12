@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <quiz>
+        <id>1</id>
+        <title>Where is the white house?</title>
+        <question>There are three houses. One is red, one is blue, and one is white. If the red house is to the left of the house in the middle, and the blue house is to the right to the house in the middle, where is the white house?</question>
+        <answer>In Washington, D.C.!</answer>
+    </quiz>
+    <quiz>
+        <id>2</id>
+        <title>Who's bigger?</title>
+        <question>Who is bigger: Mr. Bigger, Mrs. Bigger, or their baby?</question>
+        <answer>The baby, because he is a little bigger.</answer>
+    </quiz>
+    <quiz>
+        <id>3</id>
+        <title>8 letter word</title>
+        <question>What 8 letter word can have a letter taken away and it still makes a word.  Take another letter away and it still makes a word. Keep on doing that until you have one letter left. What is the word?
+
+        </question>
+        <answer>The word is starting! starting, staring, string, sting, sing, sin, in, I.  Cool,huh?
+
+        </answer>
+    </quiz>
+    <quiz>
+        <id>4</id>
+        <title>who am I?</title>
+        <question>The more you take, the more you leave behind. What am I?
+
+        </question>
+        <answer>Footsteps</answer>
+    </quiz>
+    <quiz>
+        <id>5</id>
+        <title>Head n Tail</title>
+        <question>What has a head, a tail, is brown, and has no legs?</question>
+        <answer>A Penny.
+
+        </answer>
+    </quiz>
+    <quiz>
+        <id>6</id>
+        <title>Three Consecutive Days</title>
+        <question>Can you name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?</question>
+        <answer>Yesterday, Today, and Tomorrow.
+
+        </answer>
+    </quiz>
+    <quiz>
+        <id>7</id>
+        <title>never in a thousand years</title>
+        <question>What comes once in a minute, twice in a moment, but never in a thousand years?</question>
+        <answer>The letter "m".</answer>
+    </quiz>
+    <quiz>
+        <id>8</id>
+        <title>who's the third son?</title>
+        <question>David's father has three sons : Snap, Crackle and _____ ?</question>
+        <answer>David</answer>
+    </quiz>
+    <quiz>
+        <id>9</id>
+        <title>Carnival Trick</title>
+        <question>A boy was at a carnival and went to a booth where a man said to the boy, "If I write your exact weight on this piece of paper then you have to give me $50, but if I cannot, I will pay you $50." The boy looked around and saw no scale so he agrees, thinking no matter what the carny writes he'll just say he weighs more or less. In the end the boy ended up paying the man $50. How did the man win the bet?</question>
+        <answer>The man did exactly as he said he would and wrote "your exact weight" on the paper.</answer>
+    </quiz>
+    <quiz>
+        <id>10</id>
+        <title>In love</title>
+        <question>A doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bustrip that would last a week. Before he left, he gave Sarah seven apples. Why?</question>
+        <answer>An apple a day keeps the doctor away!</answer>
+    </quiz>
+    <quiz>
+        <id>11</id>
+        <title>Ghosts Don't Like This</title>
+        <question>What room do ghosts avoid?</question>
+        <answer>The living room.</answer>
+    </quiz>
+    <quiz>
+        <id>12</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>13</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>14</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>15</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>16</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>17</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>18</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>19</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>20</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>21</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>22</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>23</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>24</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>25</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>26</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>27</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>28</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>29</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>30</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>31</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>32</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>33</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>34</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>35</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>36</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id>37</id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+    <quiz>
+        <id></id>
+        <title></title>
+        <question></question>
+        <answer></answer>
+    </quiz>
+</data>

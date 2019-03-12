@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logical"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Logical" />
+        <item
+            android:id="@+id/nav_teaser"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Brain Teasers" />
+        <item
+            android:id="@+id/nav_riddles"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Riddles" />
+        <item
+            android:id="@+id/nav_analytical"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Analytical" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Aptitude" />
+    </group>
+
+
+</menu>
